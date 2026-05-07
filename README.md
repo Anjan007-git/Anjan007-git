@@ -1,5 +1,5 @@
 # 💫 About Me:
-FULL-STACK DEVELOPER | SOFTWARE DEVELOPER 
+Full-Stack Developer | Software & Application Developer
 
 
 ## 🌐 Socials:
