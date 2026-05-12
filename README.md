@@ -1,6 +1,12 @@
 # 💫 About Me:
 Full-Stack Developer | Software & Application Developer
 
+▸ Full-Stack Developer with 3+ years of learning and hands-on experience in building modern web applications and digital solutions.
+
+▸ Worked as a freelance web developer, delivering 10+ websites for clients with a focus on performance, scalability, and user experience.
+
+▸ Passionate about software development, cloud technologies, and turning ideas into impactful digital products.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anjan97694) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/anjanprajapati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjanp93722@gmail.com) 
